@@ -4,23 +4,17 @@ Aide et ressource pour réaliser le parcours développeur d'applications FRONT E
 # Ressources diverses
 - Connaissances globales  
   [Comment devenir développeur](https://blog.openclassrooms.com/blog/2019/04/01/comment-devenir-developpeur/)  
+  [Petit guide de survie pour comprendre le développement de zéro](https://blog.openclassrooms.com/blog/2019/03/14/petit-guide-de-survie-pour-comprendre-le-developpement-en-partant-de-zero/)
   
-  https://blog.openclassrooms.com/blog/2019/03/14/petit-guide-de-survie-pour-comprendre-le-developpement-en-partant-de-zero/
-  
-- Livres
-  https://blog.openclassrooms.com/blog/2019/06/22/dans-la-bibliotheque-dun-developpeur-les-livres-incontournables/
+- Livres  
+  [Dans la bibliothèque d'un développeur, les livres incontournables](https://blog.openclassrooms.com/blog/2019/06/22/dans-la-bibliotheque-dun-developpeur-les-livres-incontournables/)
   
 - Youtubeurs
-    - Graphikart (Front / Back) 
-      https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ
-    - Benjamin Code (Front) 
-      https://www.youtube.com/channel/UCLOAPb7ATQUs_nDs9ViLcMw
-    - Antho Welc (Front)
-      https://www.youtube.com/channel/UChhPkjgG1-iLUOmURGdgQrw
-    - Wes Bos (Front) 
-      https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA
-    - WPMarmite (Wordpress)
-      https://www.youtube.com/channel/UCU_gPhU-eAI56oUeFzVyUUQ
+    - [Graphikart (Front / Back)](https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ) 
+    - [Benjamin Code (Front)](https://www.youtube.com/channel/UCLOAPb7ATQUs_nDs9ViLcMw) 
+    - [Antho Welc (Front)](https://www.youtube.com/channel/UChhPkjgG1-iLUOmURGdgQrw)
+    - [Wes Bos (Front)](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA) 
+    - [WPMarmite (Wordpress)](https://www.youtube.com/channel/UCU_gPhU-eAI56oUeFzVyUUQ)
 
 # Soutenance
 
