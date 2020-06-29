@@ -3,6 +3,7 @@ Aide et ressource pour réaliser le parcours développeur d'applications FRONT E
 
 # Ressources diverses
 - Connaissances globales
+  [Comment devenir développeur](https://blog.openclassrooms.com/blog/2019/04/01/comment-devenir-developpeur/)
   https://blog.openclassrooms.com/blog/2019/04/01/comment-devenir-developpeur/
   https://blog.openclassrooms.com/blog/2019/03/14/petit-guide-de-survie-pour-comprendre-le-developpement-en-partant-de-zero/
   
