@@ -18,10 +18,10 @@ Aide et ressource pour réaliser le parcours développeur d'applications FRONT E
 
 # Soutenance
 
-- Réaliser sa soutenance à l'aide d'un Google Slide
+- Réaliser sa soutenance à l'aide d'un Google Slide  
   https://www.youtube.com/watch?v=Rv7xb2gtBv0&feature=youtu.be
   
-- Préparer sa soutenance
+- Préparer sa soutenance  
   https://blog.openclassrooms.com/blog/2018/01/02/comment-preparer-ma-soutenance/
 
 # P1 Définissez votre stratégie d'apprentissage
