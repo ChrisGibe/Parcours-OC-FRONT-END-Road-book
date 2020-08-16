@@ -51,6 +51,25 @@ Aide et ressource pour réaliser le parcours développeur d'applications FRONT E
 # P6 Créez un jeu de plateau tour par tour en JS
 
 # P7 Lancez votre propre site d'avis de restaurants
+Dans ce projet, il est recommandé d'utiliser pour la première fois un framework ou librairie moderne de Javascript. 
+
+Ceci n'est absolument pas obligatoire, cela rajoute une couche de travail, qui peut suivant vos délais de finissions de parcours, 
+ralonger celui-ci. 
+
+Actuellement trois sont mises en avant sur le marché du travail :
+  -[React](https://fr.reactjs.org/)
+  -[Vue.js](https://vuejs.org/)
+  -[Angular(https://angular.io/)
+
+- Qu'est ce qu'une API REST ?
+-[Le Wagon, les APIs pour débutants](https://www.youtube.com/watch?v=0FQ6w4CO5Nw)
+
+- Utilisation de l'API Fetch de Javascript
+  -[Vidéo Grafikart](https://www.youtube.com/watch?v=B2Jt9bNMxyw)
+  -[Article Pierre-giraud](https://www.pierre-giraud.com/javascript-apprendre-coder-cours/api-fetch/)
+  
+- Google Map
+  -[Documentation Officielle](https://developers.google.com/maps/documentation/javascript/overview?hl=fr)
 
 # P8 Reprenez et améliorez un projet existant
 
