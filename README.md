@@ -57,19 +57,19 @@ Ceci n'est absolument pas obligatoire, cela rajoute une couche de travail, qui p
 ralonger celui-ci.  
 
 Actuellement trois sont mises en avant sur le marché du travail : 
-  -[React](https://fr.reactjs.org/) 
-  -[Vue.js](https://vuejs.org/) 
-  -[Angular](https://angular.io/) 
+  - [React](https://fr.reactjs.org/) 
+  - [Vue.js](https://vuejs.org/) 
+  - [Angular](https://angular.io/) 
 
 - Qu'est ce qu'une API REST ? 
--[Le Wagon, les APIs pour débutants](https://www.youtube.com/watch?v=0FQ6w4CO5Nw) 
+  - [Le Wagon, les APIs pour débutants](https://www.youtube.com/watch?v=0FQ6w4CO5Nw) 
 
 - Utilisation de l'API Fetch de Javascript 
-  -[Vidéo Grafikart](https://www.youtube.com/watch?v=B2Jt9bNMxyw) 
-  -[Article Pierre-giraud](https://www.pierre-giraud.com/javascript-apprendre-coder-cours/api-fetch/) 
+  - [Vidéo Grafikart](https://www.youtube.com/watch?v=B2Jt9bNMxyw) 
+  - [Article Pierre-giraud](https://www.pierre-giraud.com/javascript-apprendre-coder-cours/api-fetch/) 
   
 - Google Map 
-  -[Documentation Officielle](https://developers.google.com/maps/documentation/javascript/overview?hl=fr) 
+  - [Documentation Officielle](https://developers.google.com/maps/documentation/javascript/overview?hl=fr) 
 
 # P8 Reprenez et améliorez un projet existant
 
